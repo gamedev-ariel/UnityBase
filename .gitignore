@@ -1,0 +1,28 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]ibrary/
+[Uu]nity[Cc]ache/
+[Uu]nityTemp/
+[Tt]emp/
+[Oo]ut/
+[Ll]ogs/
+
+# User-specific files
+[Aa]ssets/AssetStoreTools*
+
+# Build directories
+Builds/
+
+# Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.svd
+*.dbmdl
+*.bak
+*.backup
